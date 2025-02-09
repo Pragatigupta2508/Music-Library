@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<HEAD>
+<STYLE>
+HR{WIDTH:70% ; COLOR:NAVY;}
+</STYLE>
+<TITLE>
+MUSIC LIBRARY
+</TITLE>
+</HEAD>
+<BODY>
+<BODY BGCOLOR = "RAINBOW">
+<IMG SRC = "ab.png" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<CENTER>
+<FONT FACE ="ALGERIAN" SIZE = "16" COLOR = "BLUE">
+MUSIC LIBRARY
+</FONT>
+</CENTER>
+<MARQUEE>
+<FONT FACE="TIMES NEW ROMAN" SIZE="4" COLOR="BLACK">
+BY:-PRAGATI GUPTA <PRE>10th B</PRE>
+</FONT>
+</MARQUEE>
+<HR>
+<BR>
+<BR>
+<P ALIGN = "LEFT">
+<FONT FACE = "CALBIRI" SIZE = "5" COLOR = "BLACK">
+<B>
+<I>
+A music library contains music-related materials for patron use. Collections may also include non-print materials, such as digitized music scores or audio recordings. Use of such materials may be limited to specific patron groups, especially in private academic institutions. Music library print collections include dictionaries and encyclopedias, indexes and directories, printed music, music serials, bibliographies, and other music literature. 
+</I>
+</B>
+</FONT>
+</P>
+<HR>
+<BR>
+<FONT FACE = "CHILLER" SIZE = "6">
+Contents
+</FONT>
+<BR>
+<OL TYPE = 1>
+<FONT SIZE = "5">
+<LI><A HREF = "#Types of Music Library">Types of Music Library</A>
+<LI><A HREF = "#Uses of Music Library">Uses of Music Library</A>
+<LI><A HREF = "#Have a Look here also">Have a Look here also</A>
+</FONT>
+</OL> 
+<BR>
+<BR>
+<HR>
+<IMG SRC = "ABC.JPG" ALIGN = "RIGHT" HEIGHT = 300 WIDTH = 300>
+<A NAME="Types of Music Library">
+<FONT FACE ="CALBIRI" SIZE="6">
+<B>
+<I>
+<U>
+TYPES OF MUSIC LIBRARY
+</B>
+</I>
+</U>
+</FONT>
+<BR><BR>
+<FONT SIZE ="4">
+Traditionally, there are four types of music libraries:
+<BR><BR>
+<UL TYPE=DISC>
+<LI>Those developed to support departments of music in university or college settings.
+<LI>Those developed to support conservatories and schools of music.
+<LI>Those housed within public libraries.
+<LI>Those developed as independent libraries or archives supporting music organizations.
+</FONT>
+</UL>
+<BR><BR><BR>
+<HR>
+<IMG SRC = "PRA.JPG" ALIGN = "RIGHT"HEIGHT = 180 WIDTH = 210>
+<BR><BR>
+<IMG SRC = "LIBR.JPG" ALIGN = "RIGHT"HEIGHT = 180 WIDTH = 210>
+<A NAME="Uses of Music Library">
+<FONT FACE ="CALBIRI" SIZE="6">
+<B>
+<I>
+<U>
+USES OF MUSIC LIBRARY
+</B>
+</I>
+</U>
+</FONT>
+<BR><BR>
+<FONT SIZE="4">
+<UL TYPE=SQUARE>
+<LI>Production music libraries license their copyrighted music for use in film, television, and radio productions.
+<LI>Performance libraries serve performing music groups, particularly large orchestras, by acquiring, preparing, and maintaining music for performance.
+<LI>Digital music libraries and archives preserve recordings and digitized scores or literature in a variety of electronic formats. Many music libraries dedicate part of their duties to digitizing parts of their collection and maintaining digital files. Digital preservation requires specific procedures to avoid decay, obsolescence, and loss. Digital materials may be part of a larger, physical collection, or may compose an entirely electronic collection not physically accessible (usually housed on a network or on the Internet). Access may be limited as a fee-based service, a private service to specific user groups (such as students at a conservatory), or freely accessible to the public.
+</FONT>
+</UL>
+<BR><BR><BR>
+<HR>
+<IMG SRC = "PQR.JPG" ALIGN = "RIGHT" HEIGHT = 300 WIDTH = 300>
+<A NAME="Have a Look here also">
+<FONT FACE ="CALBIRI" SIZE="6">
+<B>
+<I>
+<U>
+HAVE A LOOK HERE ALSO
+</B>
+</I>
+</U>
+</FONT>
+<BR><BR>
+<FONT SIZE="7" face="freestyle script">
+<UL TYPE="CIRCLE">
+<LI><A HREF= INSTRUMENTALMUSICLIBRARY.HTML> Instrumental Music Libray</A>
+<LI><A HREF =VOCALMUSICLIBRARY.HTML>Vocal MusicLibrary</a>
+</UL>
+</FONT>
+<HR>
+<FONT FACE = "CHILLER" size = "7" >
+Just click on the above links to know more. !!!!
+</FONT>
+</BODY>
+</HTML>

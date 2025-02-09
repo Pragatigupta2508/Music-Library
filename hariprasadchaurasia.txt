@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<HEAD>
+<STYLE>
+HR{WIDTH:70% ; COLOR:MAROON;}
+P{FONT-FAMILY:Brush Script MT;FONT-SIZE:X-LARGE;FONT-STYLE:NORMAL;FONT-WEIGHT:NORMAL;}
+A{FONT-FAMILY:Freestyle Script;FONT-SIZE:XX-LARGE;FONT-WEIGHT:BOLD;}
+</STYLE>
+<TITLE>
+HARIPRASAD CHAURASIA
+</TITLE>
+</HEAD>
+<BODY>
+<BODY BGCOLOR = "RAINBOW">
+<IMG SRC = "SCI.JPG" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<CENTER>
+<FONT FACE ="ALGERIAN" SIZE = "16" COLOR = "BLUE">
+HARIPRASAD CHAURASIA
+</FONT>
+</CENTER>
+<MARQUEE>
+<FONT FACE="calbiri" SIZE="4" COLOR="BLACK">
+<B>
+BY:-PRAGATI GUPTA <PRE>10th B</PRE>
+</B>
+</FONT>
+</MARQUEE>
+<HR>
+<CENTER>
+<A HREF="INSTRUMENTALMUSICLIBRARY.HTML">GO BACK TO PREVIOUS PAGE</A>
+<HR>
+<BR>
+<BR>
+<p>
+Hariprasad Chaurasia (born 1 July 1938) is an Indian music director and classical flautist, who plays the bansuri, an Indian bamboo flute, in the Hindustani classical tradition.
+</p>
+<P>
+Chaurasia started learning vocal music from his neighbour, Rajaram, at the age of 15. Later, he switched to playing the flute under the tutelage of Bholanath Prasanna of Varanasi for eight years. He joined the All India Radio, Cuttack, Odisha in 1957 and worked as a composer and performer.Much later, while working for All India Radio, he received guidance from the reclusive Annapurna Devi, daughter of Baba Allaudin Khan. She only agreed to teach him if he was willing to unlearn all that he had learnt until then.Another version is that she only agreed to teach him after he took the decision to switch from right-handed to left-handed playing to show her his commitment.In any case Chaurasia plays left-handed to this day.
+</P>
+<P>
+Apart from classical music, Hariprasad has collaborated with Shivkumar Sharma, forming a group called Shiv-Hari.The pair composed music for many popular movies, including Silsila and Chandni, and created some highly popular songs. Pandit Chaurasia also collaborated with Odia musician Bhubaneswar Mishra, forming the pair "Bhuban-Hari" (in line with Shiv-Hari), and the pair composed music for many Odia movies, creating numerous songs that were hugely popular in the state. These include Muje janena kaha baata (sung by Suman Kalyanpur; movie: Gapa helebi Sata); and all songs from Maa o Mamata, and many more.
+</P>
+<HR>
+<FONT FACE="MONOTYPE COROSIVA" SIZE="6" COLOR="BLACK">
+Here Is Top Song Of Hariprasad Chaurasia...!!!
+</font>
+<IMG SRC = "SST.JPG" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<UL TYPE =DISC>
+<LI><VIDEO CONTROLS SRC="video\5.mp4"WIDTH=540 HEIGHT=360></VIDEO>
+<BR>
+<HR>
+<FONT FACE="MONOTYPE COROSIVA" SIZE="6" COLOR="BLACK">
+CLICK ON THE PLAY BUTTON TO GET THE BEST OF HARIPRASAD CHAURASAIA...!!!
+<HR>
+</FONT>
+</BODY>
+</HTML>

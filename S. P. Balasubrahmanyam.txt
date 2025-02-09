@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<HEAD>
+<STYLE>
+HR{WIDTH:70% ; COLOR:BLUE;}
+P{FONT-FAMILY:Monotype Corsiva;FONT-SIZE:X-LARGE;FONT-STYLE:NORMAL;FONT-WEIGHT:NORMAL;}
+A{FONT-FAMILY:Viner Hand ITC;FONT-SIZE:XX-LARGE;FONT-STYLE:ITALIC;FONT-WEIGHT:NORMAL;}
+</STYLE>
+<TITLE>
+S.P.Balasubrahmanyam
+</TITLE>
+</HEAD>
+<BODY>
+<BODY BGCOLOR = "FUNCHSIA">
+<IMG SRC = "QWER.JPG" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<CENTER>
+<FONT FACE ="ALGERIAN" SIZE = "16" COLOR = "GREEN">
+S.P.Balasubrahmanyam
+</FONT>
+</CENTER>
+<MARQUEE>
+<FONT FACE="Forte" SIZE="4" COLOR="BLACK">
+BY:-PRAGATI GUPTA <PRE>10th B</PRE>
+</FONT>
+</MARQUEE>
+<HR>
+<CENTER>
+<A HREF="VOCALMUSICLIBRARY.HTML">GO BACK TO PREVIOUS PAGE</A>
+<HR>
+<BR>
+<BR>
+<P>
+Sripathi Panditaradhyula Balasubrahmanyam (born 4 June 1946; also referred to as S. P. Bala, S. P. B., or Balu) is an Indian playback singer, music director, actor, dubbing artist and film producer who worked predominantly in Telugu, Tamil, Kannada, Hindi and Malayalam He has recorded over 40,000 songs in 16 Indian languages.He holds the Guinness World Record for recording the highest number of songs by a singer with over 40,000 songs.He has garnered six National Film Awards for Best Male Playback Singer for his works in four different languages; Kannada, Telugu, Tamil, and Hindi; 25 Andhra Pradesh state Nandi Awards for his works towards Telugu cinema, numerous other state awards from Karnataka and Tamil Nadu.In addition, he garnered the Bollywood Filmfare Award, and six Filmfare Awards South.In 2012, he received the state NTR National Award for his contributions to Indian cinema.In 2016, He was honored with the Indian Film Personality of the Year consisting of a Silver Peacock Medal.He is a recipient of civilian awards such as Padma Shri (2001) and Padma Bhushan (2011) from the Government of India.
+</P>
+<P>
+Balasubrahmanyam made his debut as a playback singer on 15 December 1966 with Sri Sri Sri Maryada Ramanna, a Telugu film scored by his mentor, S. P. Kodandapani.The first Non-Telugu song that he recorded just eight days after his debut Telugu song was in Kannada in 1966 for the film Nakkare Ade Swarga, starring Kannada comedy stalwart T. R. Narasimharaju.He recorded his first Tamil song "Athaanodu Ippadi Irundhu Eththanai Naalaachu", a duet with L.R. Eswari in the music direction of M. S. Viswanathan for the film Hotel Ramba, which never got released. Other early songs he sang were duets with P. Susheela, "Iyarkai Ennum Ilaya Kanni" in the 1969 film Shanti Nilayam, starring Gemini Ganesh, and "Aayiram Nilavae Vaa" for MGR in Adimaippenn.His first song with S. Janaki was "Pournami Nilavil Pani Vizhum Iravil" in Kannippenn. He was then introduced to the Malayalam film industry by G. Devarajan in the film Kadalppalam.
+</P>
+<HR>
+<FONT FACE="MV Boli" SIZE="6" COLOR="BLACK">
+<B>
+Here Are Top 2 Best Songs Of S.P.Balasubrahmanyam
+</B>
+</font>
+<IMG SRC = "ASD.JPG" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<TABLE BORDER=3 BORDER COLOR="LIME"BACKGROUND="2.JPG">
+<TR>
+<TH>SONG NAME</TH><TH>SONGS</TH>
+</TR>
+<TR>
+<TD>PEHLA PEHLA PYAAR</TD><TD><AUDIO CONTROLS SRC="AUDIO\7.mp3"></AUDIO></TD>
+</TR>
+<TR><TD>TUMSE MILNE KI</TD><TD><AUDIO CONTROLS SRC="AUDIO\8.mp3"></AUDIO></TD>
+</TR>
+</TABLE>
+<HR>
+</B>
+</FONT>
+</BODY>
+</HTML>

@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<HEAD>
+<STYLE>
+HR{WIDTH:70% ; COLOR:NAVY;}
+P{FONT-FAMILY:CALBIRI;FONT-SIZE:X-LARGE;FONT-STYLE:ITALIC;FONT-WEIGHT:BOLDER;}
+A{FONT-FAMILY:CHILLER ;FONT-SIZE:XX-LARGE;FONT-STYLE:ITALIC;FONT-WEIGHT:NORMAL;}
+</STYLE>
+<TITLE>
+SONU NIGAM
+</TITLE>
+</HEAD>
+<BODY>
+<BODY BGCOLOR = "MAGENTA">
+<IMG SRC = "DEF.JPG" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<CENTER>
+<FONT FACE ="ALGERIAN" SIZE = "16" COLOR = "BLUE">
+SONU NIGAM
+</FONT>
+</CENTER>
+<MARQUEE>
+<FONT FACE="Forte" SIZE="4" COLOR="BLACK">
+BY:-PRAGATI GUPTA <PRE>10th B</PRE>
+</FONT>
+</MARQUEE>
+<HR>
+<CENTER>
+<A HREF="VOCALMUSICLIBRARY.HTML">GO BACK TO PREVIOUS PAGE</A>
+<HR>
+<BR>
+<BR>
+<P>
+Sonu Nigam (born 30 July 1973)is an Indian singer and composer.He sings predominantly in Hindi and Kannada language films but has also sung in English, Bengali, Gujarati, Tamil, Telugu, Marathi, Nepali, Maithili, Malayalam and other Indian languages.Nigam has also released numbers of Indian pop albums and acted in a number of Hindi films.He is regarded as the "Lord of Chords".
+</P>
+<P>
+Sonu is often considered to be one of the best playback singers in Bollywood of all time,and is widely considered to have inspired new singers in the Bollywood industry. He is often compared to legendary singer Mohammad Rafi due to their similar voice and texture.Among the old generation of singers, legendary singer Lata Mangeshkar considers him one of the very best, comparable to that of Kishore Kumar and Mohammad Rafi.
+</P>
+<P>
+Music director Himesh Reshammiya believes that Sonu is the best singer in the industry.Shekhar of Vishal-Shekhar duo considered him as the finest live performer. Singer Armaan Malik idolises Sonu Nigam and takes a lot of inspiration from him.Singer and musician Ankit Tiwari cites Sonu Nigam as one of his musical inspirations and considers him the best singer in India.
+</P>
+<P>
+Actors Shah Rukh Khan has been seen heaping praises on Sonu whom he consider a true artiste, who has lend his voice on many of their hit songs.Shankar Mahadevan considers Sonu Nigam as his favourite singer in recent times.
+</P>
+<HR>
+<FONT FACE="MONOTYPE COROSIVA" SIZE="6" COLOR="BLACK">
+<B>
+Here Are Top 2 Best Songs Of SONU NIGAM...!!!
+</B>
+</font>
+<IMG SRC = "ZXC.JPG" ALIGN = "RIGHT" HEIGHT = 180 WIDTH = 210>
+<TABLE BORDER=3 BORDER COLOR="BLUE green"BACKGROUND="3.JPG">
+<TR>
+<TH>SONG NAME</TH><TH>SONGS</TH>
+</TR>
+<TR>
+<TD>AAL IZZ WELL</TD><TD><AUDIO CONTROLS SRC="AUDIO\4.mp3"></AUDIO></TD>
+</TR>
+<TR><TD>ABHI MUJH MEIN KHI</TD><TD><AUDIO CONTROLS SRC="AUDIO\5.mp3"></AUDIO></TD>
+</TR>
+</TABLE>
+<HR>
+</B>
+</FONT>
+</BODY>
+</HTML>
